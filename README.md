@@ -5,7 +5,6 @@
 Design and simulation of a secure network infrastructure with real-time threat detection, using GNS3, Wazuh SIEM, NetAlertX, Suricata IDS/IPS, and Squid Proxy for web filtering.
 
 **Academic Project** | Master 2 - Sécurité des Systèmes d'Information | 2024-2025  
-**Supervisor:** M. Moussa DIEDHIOU
 
 ---
 
